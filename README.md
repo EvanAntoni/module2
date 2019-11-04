@@ -1,2 +1,2 @@
-# module2
+# Module2
 Submodule2 for testing git submodules feature
